@@ -1,8 +1,9 @@
 [package]
 name = "ulid"
-version = "1.1.2"
+version = "1.2.0"
 authors = ["dylanhart <dylan96hart@gmail.com>"]
 edition = "2018"
+publish = ["jtai"]
 
 license = "MIT"
 readme = "README.md"
